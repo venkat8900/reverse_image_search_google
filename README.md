@@ -18,6 +18,6 @@ chrome/mozilla installed on system
 
 4) Modify queries based on requiments
 
-5) run scraper.py for scraping images based on query. run image_scraper.py for scraping images based on given input image.
+5) run query_scraper.py for scraping images based on query. run image_scraper.py for scraping images based on given input image.
 
 
