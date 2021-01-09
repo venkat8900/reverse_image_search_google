@@ -9,7 +9,7 @@ Scrap images based on input image.
 # Requirements:
 chrome/mozilla installed on system
 
-# Impelentation
+# Impelmentation
 1) pip install -r requirements.txt
 
 2) Check your current version on google and download same chrome driver from "https://chromedriver.storage.googleapis.com/index.html" 
